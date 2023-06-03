@@ -1,0 +1,14 @@
+{
+  "name": "zero-to-billion",
+  "version": "1.0.1",
+  "description": "a simple function to reduce a number to a short string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R4$0N3 - Mio Mideal",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
