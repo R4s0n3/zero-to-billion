@@ -8,6 +8,7 @@ A lightweight npm module to format large numbers with suffixes.
 ## Installation
 
 Install the package via npm:
+npm i zero-to-billion
 
 ## Usage
 
